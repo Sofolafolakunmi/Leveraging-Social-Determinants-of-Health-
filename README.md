@@ -1,1 +1,2 @@
 # Leveraging-Social-Determinants-of-Health-
+This project, focuses on integrating and analyzing clinical and socioeconomic data to drive equitable healthcare solutions. Specializing in healthcare data analytics, our team is dedicated to empowering stakeholders with real-time insights to address disparities, improve resource allocation, and enhance health outcomes for underserved communities. The project emphasizes the use of tools like Power BI, Power Automate, and Excel Sheet to create an automated, interactive analytics framework that supports data-driven decision-making
